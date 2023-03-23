@@ -4,9 +4,9 @@ A remote controllor for Xiaomi Smart Plug （WiFi version）
 
 Drived by Arduino on ESP8266
 
-## Advantage
+## Why U Should Use It?
 
-Show status of the plug by the LED of ESP8266 chip!
+Status of the plug can be shown by the LED of ESP8266 chip!
 
 ## References:
 
@@ -16,7 +16,7 @@ Show status of the plug by the LED of ESP8266 chip!
 * arduino AESlib: 
   * https://lang-ship.com/reference/Arduino/libraries/AESLib/
   * https://github.com/suculent/thinx-aes-lib
-*arduino MD5: http://www.lab-z.com/arduinomd5/
+* arduino MD5: http://www.lab-z.com/arduinomd5/
 
 
 
